@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>maake empire</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <h1>Welcome to Our Business</h1>
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About Us</a></li>
+            <li><a href="#services">Products and Services</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+
+<section id="home">
+    <div class="container">
+        <h2>Home</h2>
+        <p>Welcome to <div maake="" empire=""></div>. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla condimentum tortor et est condimentum, a finibus orci scelerisque. Nulla eget metus eget lorem varius consectetur.</p>
+    </div>
+</section>
+
+<section id="about">
+    <div class="container">
+        <h2>About Us</h2>
+        <p>Welcome to <div maake="" empire=""></div>, where we <div help="" you="" to="" recconect="" with="" your="" lord="" and="" saviour="" jesus="" christ=""></div>. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tincidunt ligula libero, in pretium tellus sagittis id. Mauris ut dapibus turpis.</p>
+        
+        <p>Our mission is to <div win="" more="" souls="" to="" jesus=""></div>. Vestibulum eget tellus nec libero fringilla commodo. Suspendisse eget libero nec felis tincidunt convallis.</p>
+        
+        <p>Founded in [2024], <div maake="" empire=""></div> has been serving <div univen=""></div> with <div Giving="" you="" words="" that="" will="" reconnect="" with="" the="" most="" high=""></div>. Aenean at orci vel nisi lacinia dapibus.</p>
+        
+        <p>For more information about our services or to get in touch with us, please visit our <a href="#contact">Contact page</a>.</p>
+    </div>
+</section>
+
+<section id="services">
+    <div class="container">
+        <h2>Our Products and Services</h2>
+
+        <div class="product">
+            <img src="product1.jpg" alt="Product 1">
+            <h3>Product 1</h3>
+            <p>Description of Product 1. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            <p>Price: $XX.XX</p>
+        </div>
+
+        <div class="word of god">
+            <img src="jesus.jpg" alt="holy spirit">
+            <h3>Product 2</h3>
+            <p>Description of Product 2. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <p>Price: $XX.XX</p>
+        </div>
+
+        <div class="preaching">
+            <h3>Service 1</h3>
+            <p>Description of Service 1. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+            <p>Starting at $YY.YY</p>
+        </div>
+
+        <div class="converting">
+            <h3>Service 2</h3>
+            <p>Description of Service 2. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+            <p>Starting at $ZZ.ZZ</p>
+        </div>
+    </div>
+</section>
+
+<section id="075 746 1270">
+    <div class="sulvation">
+        <h2>Contact Us</h2>
+        <p>Feel free to get in touch with us using the contact form below or visit us at our office.</p>
+        
+        <form action="#" method="POST">
+            <label for="maake given">Name:</label>
+            <input type="maake" id="romeo" name="given" required>
+            
+            <label for="maakegivenmaake@gmail.com">Email:</label>
+            <input type="email" id="email" name="email" required>
+            
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" rows="4" required></textarea>
+            
+            <button type="submit">Send Message</button>
+        </form>
+    </div>
+</section>
+
+<footer>
+    <p>&copy; 2024 <div maake="" empire=""></div>. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
